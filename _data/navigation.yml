@@ -1,0 +1,19 @@
+# Links in the top menu bar, in this order.
+# To hide a page from the menu, delete (or comment out with #) its two lines.
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  # Uncomment the two lines below once you add talks to the _talks folder
+  # - title: "Talks"
+  #   url: /talks/
