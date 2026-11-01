@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-reviewed journal articles, newest first. Click a title to open the paper. \* Corresponding author. A full list is also on [Google Scholar](https://scholar.google.com/citations?user=5K97P8QAAAAJ&hl=en).
+Peer-reviewed journal articles, newest first.  A full list is also on [Google Scholar](https://scholar.google.com/citations?user=5K97P8QAAAAJ&hl=en).
 
 <!-- To add a paper: copy any line below, paste it at the top of the list, and edit it.
      Keep "1." at the start of the line; the numbers are renumbered automatically. -->
