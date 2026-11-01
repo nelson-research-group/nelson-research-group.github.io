@@ -20,23 +20,14 @@ You can edit any file directly on github.com: open it, click the pencil icon, ma
 
 ## Adding a new publication
 
-1. Open the `_publications` folder and click **Add file → Create new file**.
-2. Name it like `2027-01-01-shortname.md` (the date controls the order; newest appears first).
-3. Paste this in and fill it out:
+Open `_pages/publications.md`, copy any line of the list, paste it at the top, and edit it.
+Keep `1.` at the start of every line; the numbers are renumbered automatically. Example:
 
 ```
----
-title: 'Paper title'
-collection: publications
-category: manuscripts
-permalink: /publication/shortname
-date: 2027-01-01
-venue: 'Journal Name'
-citation: 'Author, A.; <b>Nelson, T. F.</b> Paper title. <i>Journal Name</i> <b>2027</b>, 1, 1–10.'
----
-
-[Read the paper](https://doi.org/...)
+1. Author, A.; **Nelson, T. F.**\* [Paper title](https://doi.org/10.xxxx/xxxxx). *Journal Name* **2027**, *12*, 100–110.
 ```
+
+`\*` marks you as corresponding author; leave it out otherwise.
 
 ## Adding a course or a talk
 
