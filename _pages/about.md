@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Group Leader of Environmental Chemistry at the [Department of Chemistry, University of Konstanz](https://www.chemie.uni-konstanz.de/mecking/). My research asks **what happens to polymers once they reach the environment**: how fast they break down in soils and the ocean, which chemical structures make them degradable, and how that knowledge can guide the design of plastics that are both useful and environmentally benign.
+I am Group Leader of Sustainable Materials at the [Department of Chemistry, University of Konstanz](https://www.chemie.uni-konstanz.de/mecking/). My research asks **what happens to polymers once they reach the environment**: how fast they break down in soils and the ocean, which chemical structures make them degradable, and how that knowledge can guide the design of plastics that are both useful and environmentally benign.
 
 # Research interests
 
