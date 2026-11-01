@@ -15,7 +15,7 @@ Polymer Structure-Property-Biodegradability Relationships {#relationships}
 
 Macromolecular Analytical Chemistry {#analytical}
 ------
-We work to develop new analytical approaches to study the breakdown of polymers in the environmental. Examples include <sup>13</sup>C labeling together with stable isotope probing (SIP) of CO<sub>2<sub> and microbial biomass during biodegradation, and NMR diffusion-ordered spectroscopy (DOSY) techniques to study macromolecular changes to polymers upon e.g., photoirradiation.
+We work to develop new analytical approaches to study the breakdown of polymers in the environmental. Examples include <sup>13</sup>C labeling together with stable isotope probing (SIP) of CO<sub>2</sub> and microbial biomass during biodegradation, and NMR diffusion-ordered spectroscopy (DOSY) techniques to study macromolecular changes to polymers upon e.g., photoirradiation.
 Publications: 
 1. **Nelson, T. F.**\*; Ward, C. P. [Diffusion-ordered spectroscopy for rapid and facile determination of consumer plastic molecular weight](https://doi.org/10.1021/acs.analchem.3c00655). *Analytical Chemistry* **2023**, *95*, 8560–8568.
 1. **Nelson, T. F.**; Baumgartner, R.; Jaggi, M.; Bernasconi, S. M.; Battagliarin, G.; Sinkel, C.; Künkel, A.; Kohler, H.-P. E.; McNeill, K.; Sander, M. [Biodegradation of poly(butylene succinate) in soil laboratory incubations assessed by stable carbon isotope labelling](https://doi.org/10.1038/s41467-022-33064-8). *Nature Communications* **2022**, *13*, 5691.
