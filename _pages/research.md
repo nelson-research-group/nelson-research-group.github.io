@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Synthetic polymers are produced at enormous scale, and a growing share is designed to be biodegradable. Whether a material actually degrades in the environment, and how quickly, depends on its chemical structure, the material's form, and the conditions it meets. My research quantifies these processes with analytical tools that can follow polymer carbon directly.
+Synthetic polymers are produced at enormous scale, with a growing need for more sustainable materials  is designed to be biodegradable. Whether a material actually degrades in the environment, and how quickly, depends on its chemical structure, the material's form, and the conditions it meets. My research quantifies these processes with analytical tools that can follow polymer carbon directly.
 
-My work combines polymer chemistry with environmental and isotope geochemistry. I use stable carbon isotope (<sup>13</sup>C) labelling to follow polymer carbon as microorganisms convert it into CO<sub>2</sub> and biomass, and I study how sunlight drives the breakdown of consumer plastics at the sea surface. Together with polymer chemists, I help design and test new polyethylene-like materials that keep the properties of conventional plastics while staying recyclable and biodegradable.
+
 
 Polymer Structure-Property-Biodegradability Relationships {#relationships}
 ------
