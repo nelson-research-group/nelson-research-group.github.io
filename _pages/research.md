@@ -22,7 +22,14 @@ Publications:
 
 Environmental Fate of Consumer and Novel Plastics {#envfate}
 ------
-At Woods Hole Oceanographic Institution I studied how sunlight degrades consumer plastics at the sea surface, and how formulation choices (additives such as titanium dioxide) and biofouling change that fate. This work continues through a U.S. National Science Foundation project on the controls of plastic photochemical reactivity in the surface ocean. It also led to new analytical tools, such as diffusion-ordered NMR spectroscopy for rapid determination of plastic molecular weight.
+We study how sunlight degrades consumer plastics at the sea surface, and how formulation choices and biofouling change that fate.
+
+Publications:
+1. Walsh, A. N.; Mazzotta, M. G.; **Nelson, T. F.**; Reddy, C. M.; Ward, C. P. [Synergy between sunlight, titanium dioxide, and microbes enhances cellulose diacetate degradation in the ocean](https://doi.org/10.1021/acs.est.2c04348). *Environmental Science & Technology* **2022**, *56*, 13810–13819.
+1. **Nelson, T. F.**\*; Reddy, C. M.; Ward, C. P. [Product formulation controls the impact of biofouling on consumer plastic photochemical fate in the ocean](https://doi.org/10.1021/acs.est.1C02079). *Environmental Science & Technology* **2021**, *55*, 8898–8907.
+
+
+
 
 
 Ongoing and recent funded projects
