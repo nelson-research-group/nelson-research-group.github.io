@@ -2,6 +2,7 @@
 layout: single
 title: "Engagement"
 permalink: /engagement/
+hide_title: true 
 author_profile: true
 ---
 
