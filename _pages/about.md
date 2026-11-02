@@ -13,7 +13,7 @@ I am Group Leader of Sustainable Materials at the [Department of Chemistry, Univ
 
 - [Polymer Structure-Property-Biodegradability Relationships](/research/#relationships)
 - [Macromolecular Analytical Chemistry](/research/#analytical)
-- [Environmental Fate of Consumer and Novel Plastics](/reserach/#envfate)
+- [Environmental Fate of Consumer and Novel Plastics](/research/#envfate)
 
 # Background
 
