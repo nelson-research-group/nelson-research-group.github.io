@@ -37,3 +37,7 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Keep headings visible below the fixed top menu when jumping to a #section link */
+html {
+  scroll-padding-top: 90px;
+}
