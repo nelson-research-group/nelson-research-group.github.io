@@ -11,6 +11,8 @@ author_profile: true
 
 Beyond research articles, I contribute to the scientific community and to public conversations about plastics and the environment.
 
+Events
+---------
 
 I am co-organizing the 2nd edition of the **Conference on Polymers by European Early-career Researchers (PEERs)**, taking place in July 2027 in Munich. If you are an early career researcher in polymer science based in Europe, apply to join us! Find more info at the [conference website](https://uni-konstanz.de/peer-2027)
 
