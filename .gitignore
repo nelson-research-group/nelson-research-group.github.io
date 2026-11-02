@@ -24,3 +24,8 @@ package-lock.json
 
 # Zotero export used to build the Publications page (not published)
 publications_export.bib
+
+# RStudio files (not part of the website)
+.Rhistory
+.RData
+.Rproj.user/
