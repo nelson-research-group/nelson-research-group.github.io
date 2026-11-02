@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Home"
+hide_title: true   # "Home" shows in the browser tab, but not as a heading on the page
 author_profile: true
 redirect_from:
   - /home/
