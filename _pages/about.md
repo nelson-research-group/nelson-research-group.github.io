@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 I am Group Leader of Sustainable Materials at the [Department of Chemistry, University of Konstanz](https://www.chemie.uni-konstanz.de/mecking/). My research asks **what happens to polymers once they reach the environment**: how fast they break down in soils and the ocean, which chemical structures make them degradable, and how that knowledge can guide the design of plastics that are both useful and environmentally benign.
