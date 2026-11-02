@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+hide_title: true 
 author_profile: true
 ---
 
